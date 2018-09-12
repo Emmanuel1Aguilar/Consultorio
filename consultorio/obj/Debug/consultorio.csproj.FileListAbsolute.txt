@@ -1,0 +1,19 @@
+F:\DATOS\5 semestre\Desarrollo Visual 2\consultorio\consultorio\bin\Debug\consultorio.exe
+F:\DATOS\5 semestre\Desarrollo Visual 2\consultorio\consultorio\bin\Debug\consultorio.pdb
+F:\DATOS\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\ResolveAssemblyReference.cache
+F:\DATOS\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.Form1.resources
+F:\DATOS\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.Properties.Resources.resources
+F:\DATOS\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.csproj.GenerateResource.Cache
+F:\DATOS\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.exe
+F:\DATOS\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.pdb
+G:\DATOS\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.exe
+G:\DATOS\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.pdb
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\consultorio\consultorio\bin\Debug\consultorio.exe
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\consultorio\consultorio\bin\Debug\consultorio.pdb
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.csprojAssemblyReference.cache
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.Form1.resources
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.Properties.Resources.resources
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.csproj.GenerateResource.cache
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.exe
+C:\Users\Emmanuel Aguilar\Documents\5 semestre\Desarrollo Visual 2\consultorio\consultorio\obj\Debug\consultorio.pdb
